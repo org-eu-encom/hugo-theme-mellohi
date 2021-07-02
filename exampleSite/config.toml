@@ -4,7 +4,10 @@ languageCode = "en-us"
 Title = "Your site title"
 # Copyright notice. This is displayed in the footer.
 copyright = "&copy; Copyright notice"
-theme = "potato-dark"
+theme = "mellohi"
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
   paginate = 10

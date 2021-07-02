@@ -1,7 +1,7 @@
-name = "Potato Dark"
+name = "Mellohi"
 license = "MIT"
 licenselink = "https://github.com/surajmandalcell/potato-dark/blob/master/LICENSE.md"
-description = "Potato Dark is a modern, simple and beautiful Hugo theme"
+description = "Theme of encom.eu.org"
 source_repo = "git@github.com:surajmandalcell/potato-dark.git"
 tags = ["Responsive", "Blog", "Google analytics", "Disqus", "Clean", "Tags", "Minimal", "Minimalist", "Simple", "White", "Starter"]
 features = ["blog"]
